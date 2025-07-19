@@ -1,4 +1,3 @@
-
 CREATE TABLE employee (
     serial_no NUMBER PRIMARY KEY,
     name VARCHAR2(50),
