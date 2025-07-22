@@ -1,0 +1,8 @@
+DECLARE
+declare variables;
+       create a cursor with default value for parameter;
+ BEGIN OPEN cursor; 
+FETCH cursor;
+       process the rows;
+ CLOSE cursor; 
+END;
